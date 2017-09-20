@@ -1,6 +1,6 @@
 {
   "Parameters" : {
-    "DesiredCount" : "2"
+    "DesiredCount" : "3"
   },
   "Tags" : {
     "StackName" : "foo"
