@@ -20,6 +20,7 @@
                 <p>Your PHP application is now running on a container in Amazon ECS.</p>
                 <p>o Yeah this is cool</p>
                 <p>This should be a go service</p>
+                <div>chill</div>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
